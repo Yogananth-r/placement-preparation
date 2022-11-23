@@ -1,4 +1,4 @@
-# placement preparation
+# Placement Preparation
 
 ## Website for Aptitude Practice
 1. [IndiaBix](https://www.indiabix.com/)
