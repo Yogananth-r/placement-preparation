@@ -5,4 +5,4 @@
 2. [Sawaal](https://www.sawaal.com/)
 
 ## Coding
-1. [Hackerrank](https://hackerrank.com)
+1. [HackerRank](https://hackerrank.com)
