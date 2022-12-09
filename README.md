@@ -12,3 +12,5 @@
 5. [Exercism](https://exercism.org)
 6. [Coderbyte](https://coderbyte.com)
 7. [Codingame](https://codingame.com)
+8. [Codechef](https://codechef.com)
+9. [ProjectEuler](https://projecteuler.net)
