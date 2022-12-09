@@ -13,7 +13,7 @@
 6. [Coderbyte](https://coderbyte.com)
 7. [Codingame](https://codingame.com)
 8. [Codechef](https://codechef.com)
-9. [ProjectEuler](https://projecteuler.net)
+9. [Project Euler](https://projecteuler.net)
 10. [Edabit](https://edabit.com)
 11. [Codeforces](https://codeforces.com)
 12. [HackerEarth](https://hackerearth.com)
