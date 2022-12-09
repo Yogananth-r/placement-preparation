@@ -9,3 +9,5 @@
 2. [Codewars](https://codewars.com)
 3. [Leetcode](https://leetcode.com)
 4. [Topcoder](https://topcoder.com)
+5. [Exercism](https://exercism.org)
+6. [Coderbyte](https://coderbyte.com)
