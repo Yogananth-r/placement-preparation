@@ -1,10 +1,10 @@
 # Placement Preparation
 
-## Website for Aptitude Practice
+## 1. Website for Aptitude Practice
 1. [IndiaBix](https://www.indiabix.com/)
 2. [Sawaal](https://www.sawaal.com/)
 
-## Coding - Programming Language 
+## 2. Coding - Programming Language 
 1. [HackerRank - All Major Programming Languages](https://hackerrank.com)
 2. [Codewars](https://codewars.com)
 3. [Leetcode](https://leetcode.com)
