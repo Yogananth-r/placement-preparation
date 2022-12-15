@@ -1,4 +1,4 @@
-# Placement Preparation
+# Resources For Placement Preparation
 
 ## 1. Website for Aptitude Practice
 1. [IndiaBix](https://www.indiabix.com/)
