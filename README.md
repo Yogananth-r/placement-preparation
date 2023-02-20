@@ -41,4 +41,4 @@
 
 
 ## 6. Interview Essentials
-1. [] ()
+1. [Everything to do for an Interview](https://github.com/Olshansk/interview)
