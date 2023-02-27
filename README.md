@@ -44,3 +44,4 @@
 ## 6. Interview Essentials
 1. [Everything to do for an Interview](https://github.com/Olshansk/interview)
 2. [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap)
+https://github.com/florinpop17/app-ideas
