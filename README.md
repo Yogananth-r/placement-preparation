@@ -4,7 +4,7 @@
 1. [IndiaBix](https://www.indiabix.com/)
 2. [Sawaal](https://www.sawaal.com/)
 3. [Career Ride](https://www.careerride.com/)
-http://placementadda.com/
+4. [](http://placementadda.com/)
 
 ## 2. Coding - Programming Language 
 1. [HackerRank - All Major Programming Languages](https://hackerrank.com)
