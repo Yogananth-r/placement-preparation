@@ -49,4 +49,4 @@
 4. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 5. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
 6. [Complete Placement Preparation](https://github.com/anushka23g/Complete-Placement-Preparation)
-7. [Lecture Video Links](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
+7. [Lecture Video](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
