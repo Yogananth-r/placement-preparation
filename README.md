@@ -51,4 +51,4 @@
 6. [Complete Placement Preparation](https://github.com/anushka23g/Complete-Placement-Preparation)
 7. [Lecture Videos for placement preparation](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 8. [Computer Science 101 - Stanford](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)
-9. [](https://online.stanford.edu/courses/tds-y0003-designing-your-career)
+9. [Designing Your Career](https://online.stanford.edu/courses/tds-y0003-designing-your-career)
