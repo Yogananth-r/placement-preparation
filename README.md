@@ -22,7 +22,7 @@
 13. [Geeksforgeeks](https://geeksforgeeks.org)
 
 
-## 3. [Project based Learning ](https://github.com/practical-tutorials/project-based-learning)
+## 3. [Project based Learning](https://github.com/practical-tutorials/project-based-learning)
 
 
 ## 4. DSA 
