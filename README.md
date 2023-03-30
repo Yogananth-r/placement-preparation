@@ -41,7 +41,7 @@
 3. Computer Networks
 4. [Programming Essentials in Python - Cisco](https://www.netacad.com/courses/programming/pcap-programming-essentials-python)
 5. [Python for Everybody - Coursera](https://in.coursera.org/specializations/python)
-6. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+6. [The Hitchhiker’s Guide to Python - Python Docs](https://docs.python-guide.org/)
 
 
 ## 6. Interview Essentials
