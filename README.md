@@ -49,7 +49,7 @@
 2. [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap)
 3. [To Improve Coding Skills](https://github.com/florinpop17/app-ideas)
 4. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-5. [Programming Books](https://github.com/EbookFoundation/free-programming-books)
+5. [Programming Books - Ebook Foundation](https://github.com/EbookFoundation/free-programming-books)
 6. [Complete Placement Preparation](https://github.com/anushka23g/Complete-Placement-Preparation)
 7. [Lecture Videos for placement preparation](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 8. [Computer Science 101 - Stanford](https://online.stanford.edu/courses/soe-ycscs101-computer-science-101)
