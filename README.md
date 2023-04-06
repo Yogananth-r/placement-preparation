@@ -22,7 +22,7 @@
 13. [Geeksforgeeks](https://geeksforgeeks.org)
 
 
-## 3. Learning
+## 3. Project Learning
 1. [Project Based Learning - practical tutorials](https://github.com/practical-tutorials/project-based-learning)
 
 
